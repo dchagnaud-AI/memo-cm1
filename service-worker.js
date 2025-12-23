@@ -1,8 +1,7 @@
 const CACHE_NAME = 'memo-cm1-v1';
 const urlsToCache = [
-  '/',
-  '/memo-scolaire.html',
-  '/index.html'
+  './',
+  './index.html'
 ];
 
 // Installation du service worker
