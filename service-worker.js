@@ -1,4 +1,4 @@
-const CACHE_NAME = 'memo-cm1-v1';
+const CACHE_NAME = 'memo-cm1-v2';
 const urlsToCache = [
   './',
   './index.html'
@@ -51,3 +51,4 @@ self.addEventListener('fetch', event => {
       })
   );
 });
+
